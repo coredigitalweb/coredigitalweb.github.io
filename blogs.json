@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Why a Website is Essential in 2026?",
+    "description": "In today's digital era, having a modern and responsive website is crucial for growing any business...",
+    "content": "<p>Running a business today without a website is like having a store without an address.</p><h3>1. Builds Credibility and Trust</h3><p>When people search for your business on Google and find a professional website, their trust in your brand multiplies significantly...</p>",
+    "image": "assets/img/web4.jpg.png",
+    "link": "blog-details.html?id=0"
+  },
+  {
+    "title": "How to Improve Google Search Ranking",
+    "description": "Follow these fundamental SEO (Search Engine Optimization) rules to increase organic traffic to your website...",
+    "content": "<p>SEO is the key to making your business visible online without paying for ads constantly.</p><h3>1. Keyword Optimization</h3><p>Ensure you use the right terms that your customers are actively searching for on the internet...</p>",
+    "image": "assets/img/web1.jpg.png",
+    "link": "blog-details.html?id=1"
+  }
+]
